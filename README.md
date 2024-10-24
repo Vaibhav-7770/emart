@@ -1,2 +1,1 @@
-# emart
-emart app
+# emart-app
